@@ -10,7 +10,8 @@ This is empathy question page
  ![Screenshot (42)](https://github.com/user-attachments/assets/bd218453-c7a0-47f0-888d-3b0d0f482182)
 This is adaptability question page
 ![Screenshot (12)](https://github.com/user-attachments/assets/c31d53fb-654f-4719-968c-77ca2db64ef1)
-This is communication question page ![Screenshot (41)](https://github.com/user-attachments/assets/be29a3be-b70e-48c5-8288-e77afc21d62f)
+This is communication question page ![Screenshot (26)](https://github.com/user-attachments/assets/8c069c7a-789d-44a4-9088-7d9e1c719ef4)
+
 
 
 
