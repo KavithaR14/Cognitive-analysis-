@@ -7,10 +7,11 @@ This is signup page and login page
 This is description page for each categories
 ![Screenshot (9)](https://github.com/user-attachments/assets/d11ebbd1-b4a9-400e-ac95-edd7609b73d3)
 This is empathy question page
-![Screenshot (16)](https://github.com/user-attachments/assets/1a8c22ac-af45-4e9c-bb3e-920e5dda4550)
+ ![Screenshot (42)](https://github.com/user-attachments/assets/bd218453-c7a0-47f0-888d-3b0d0f482182)
 This is adaptability question page
 ![Screenshot (12)](https://github.com/user-attachments/assets/c31d53fb-654f-4719-968c-77ca2db64ef1)
-This is communication question page ![Screenshot (42)](https://github.com/user-attachments/assets/bd218453-c7a0-47f0-888d-3b0d0f482182)
+This is communication question page ![Screenshot (41)](https://github.com/user-attachments/assets/be29a3be-b70e-48c5-8288-e77afc21d62f)
+
 
 
 
